@@ -1,5 +1,7 @@
+###################
+A Project for maintaining students and temple info based on financial credits they have taken
+###################
 
-##A Project for maintaining students and temple info based on financial credits they have taken
 
 *******************
 Release Information
@@ -7,7 +9,9 @@ Release Information
 
 This repo contains in-development code for future releases.
 
-## Contributors
+*******************
+Contributors
+*******************
 
 * Sujin P Suresh
 * Bipin Kareparambil
